@@ -15,8 +15,8 @@ class AppBloc extends BlocBase {
     inCurrentList.add(_list);
   }
 
-  void removeList(int id) {
-    _list.removeAt(id);
+  void removeList(int index) {
+    _list.removeAt(index);
     inCurrentList.add(_list);
   }
 
