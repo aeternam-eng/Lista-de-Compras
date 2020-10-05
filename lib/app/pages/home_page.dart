@@ -15,7 +15,7 @@ class _HomePageState extends State<HomePage> {
     AppBloc _bloc = BlocProvider.of<AppBloc>(context);
     return Scaffold(
       appBar: AppBar(
-        title: Text("Lista de Compras"),
+        title: Text("Listaê"),
         centerTitle: true,
       ),
       body: ListPage(),
