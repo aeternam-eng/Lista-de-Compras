@@ -1,10 +1,10 @@
-# Lista de Compras
+# Listaê
 
 2º aplicativo desenvolvido para as aulas de LDDM do curso de Engenharia de Computação
 
 ## Documentação
 
-O aplicativo consiste de uma única tela, na qual é possível adicionar itens de texto na lista através de um FloatingActionButton, e removê-los através de botões à direita de cada item da lista. Idealmente, é uma ferramenta para gerenciar os itens a serem adquiridos durante uma ida ao supermercado, por exemplo.
+O aplicativo consiste de uma única tela, na qual é possível adicionar itens de texto na lista através de um FloatingActionButton, e removê-los através de botões à direita de cada item da lista. Idealmente, é uma ferramenta para gerenciar quaisquer tipos de necessidade de listagem do usuário, como listas de nomes, listas de compras, etc.
 
 ## Estrutura
 1. main.dart (Inicializa o app);
